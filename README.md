@@ -22,7 +22,7 @@ Welcome to our `Blockchain Prototype project`, a cutting-edge simulation that mi
 
 ```bash
 # Clone the repository and install dependencies
-git clone [<repository-url>](https://github.com/Reshzera/Protochain.git)
+git clone https://github.com/Reshzera/Protochain.git
 cd protochain
 npm install
 ```
