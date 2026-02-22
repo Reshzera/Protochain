@@ -1,6 +1,5 @@
 # Protochain
 
-
 Welcome to our `Blockchain Prototype project`, a cutting-edge simulation that mirrors the foundational aspects of Bitcoin, but with a modern twist: it's built using TypeScript. This prototype aims to provide developers and enthusiasts alike with a hands-on experience of blockchain technology, including the creation, verification, and management of blocks in a decentralized environment.
 ## Table of Contents
 
